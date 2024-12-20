@@ -1,2 +1,2 @@
-console.log('config.js');
-console.log('version12');
+console.log("New Git Config");
+console.log("ver1");
